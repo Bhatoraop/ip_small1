@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.logo{
+    height: 100x;
+    padding:2px 10px;
+}
+.header{
+    height: 100v;
+    font-size: large;
+}
+.navbar-style{
+    box-shadow: 0 5px  10px #efefef;
+    text-transform: capitalize;
+
+}
+
+
+.para1{
+    font-size: x-large;
+}
+.icon-bar{
+    color: orangered;
+    background-color: darkorange;
+}
+
+.img-responsive{
+    height: 400px;
+    width: 300px;
+    
+
+}
+.big-text{
+    font-size: 52px;
+    color: darkorange;
+}
+.h1{
+    font: 500;
+ text-shadow: #efefef;
+}
+a.btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+a.btn-first{
+    background-color: darkorange;
+    color:wheat
+
+}
+a.btn-secound{
+    background-color: transparent;
+    color: black;
+}
